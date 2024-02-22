@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="architecture_image">Sailing under the bridge</string>
+    <string name="business_image">Business</string>
+    <string name="crafts_image">craft</string>
+    <string name="design_image">design</string>
+    <string name="author" />
+    <string name="year">2024</string>
+</resources>
